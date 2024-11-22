@@ -203,5 +203,24 @@
          "value": ""
        }
      ]
+  },
+  {
+    "id": "quote2",
+    "fields": [
+       {
+         "component": "richtext",
+         "name": "quote2",
+         "value": "",
+         "label": "Quote2",
+         "valueType": "string"
+       },
+       {
+         "component": "text",
+         "valueType": "string",
+         "name": "author",
+         "label": "Author",
+         "value": ""
+       }
+     ]
   }
 ]
